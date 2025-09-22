@@ -1,0 +1,52 @@
+courseId,cname,credits,deptNo
+1,Nuclear Metallurgy,11,9
+2,Instrumental Analysis,9,9
+3,Composite Materials,11,9
+4,Alternative Routes of Iron and Steel Making,9,9
+5,Materials Selection and Design,13,9
+6,Vibrations,13,8
+7,Materials for Tribological  Applications,9,8
+8,Mechatronics,9,8
+9,Combustion Technology,11,8
+10,Thermal Management of Electronic System,9,8
+11,Condition Monitoring and energy conservation,9,5
+12,Physical significance of Mathematical methods,9,5
+13,Artificial Intelligence,11,5
+14,Optimization Techniques and Applications,9,5
+15,Digital Control System,13,5
+16,Discrete Maths,9,4
+17,Computer System Organization,11,4
+18,Algorithms,11,4
+19,Operating Systems,11,4
+20,Database Management System,11,4
+21,Computer Graphics,11,4
+22,Intelligent Computing,9,4
+23,Graph Theory,9,4
+24,Theory of Computation,9,4
+25,Compiler Design,11,4
+26,Bio-Ceramics,9,1
+27,Advanced Glass Technology,9,1
+28,Refractories,11,1
+29,Advanced Ceramics,11,1
+30,Nano Technology,11,1
+31,Cement and Concrete,11,1
+32,New Separation Process,9,2
+33,Fluidization Engineering,9,2
+34,Corosion Engineering,9,2
+35,Chemical Engineering Practices,6,2
+36,Heat Transfer Operations,8,2
+37,Basic Surveying,9,3
+38,Mechanics of Solids,8,3
+39,Engineering Geology,9,3
+40,Design of Steel Structure,8,3
+41,Open Channel Flow,8,3
+42,Solid State Electronic Devices,9,6
+43,Signals and Systems,9,6
+44,Microelectronics,9,6
+45,Digital Communication,9,6
+46,Digital Signal Processing,9,6
+47,Mine Development,9,7
+48,Mining Geology,11,7
+49,Mining Machinery,11,7
+50,Mine Surveying,13,7
+51,Rock Mechanics,13,7

@@ -1,0 +1,20 @@
+// #Table_Name
+// Comma Seperated Data Types
+
+#student
+int,varchar,int,varchar,int,int
+
+#department
+int,varchar,int,varchar
+
+#professor
+int,varchar,varchar,int,int,varchar
+
+#course
+int,varchar,int,int
+
+#enrollment
+int,int,varchar,int,varchar
+
+#teaching
+int,int,varchar,int
